@@ -11,9 +11,9 @@ You can get it here: https://dlang.org/download.html. Choose the appropriate ver
 
 He also recommends to use the following compiler switches: -de, -w, -unittest and -run.
 
--de show use of deprecated features as errors (halts compilation)
--w warnings as errors (compilation will halt)
--unittest compile in unit tests
--run compiles and run the program. Must be the last parameter
+-de show use of deprecated features as errors (halts compilation).
+-w warnings as errors (compilation will halt).
+-unittest compile in unit tests.
+-run compiles and run the program. Must be the last parameter.
 
 Ali also states that we should use a terminal instead of an IDE, so we can get more familiar with the compiling process.
