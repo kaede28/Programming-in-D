@@ -9,11 +9,11 @@ Ali recommends the DMD compiler in order to compile the examples of this book, a
 
 You can get it here: https://dlang.org/download.html. Choose the appropriate version according to your processor type (32 or 64 bits) and operational system.
 
-He also recommends to use the following compiler switches: , -de, -w, -unittest and -run.
+He also recommends to use the following compiler switches: -de, -w, -unittest and -run.
 
--de show use of deprecated features as errors (halt compilation)
+-de show use of deprecated features as errors (halts compilation)
 -w warnings as errors (compilation will halt)
 -unittest compile in unit tests
--run 
+-run compiles and run the program. Must be the last parameter
 
 Ali also states that we should use a terminal instead of an IDE, so we can get more familiar with the compiling process.
